@@ -1,0 +1,22 @@
+.row{
+	padding: 10px 0 10px 0;
+}
+label{
+	display: inline-block;
+	width: 150px;
+}
+input{
+	width: 250px;
+}
+.sendVerifyCode{
+	border: solid 1px #ff7729;
+	border-left: 0;
+	outline: 0;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	cursor: pointer;
+	background: #ff7729;
+	color: #fff;
+	padding: 0 3px 0 3px;
+}

@@ -1,0 +1,10 @@
+.row{
+	padding: 10px 0 10px 0;
+}
+label{
+	display: inline-block;
+	width: 150px;
+}
+input{
+	width: 250px;
+}
